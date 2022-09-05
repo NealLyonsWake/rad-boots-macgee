@@ -12,7 +12,7 @@ A 30-second trailer is available [here](https://youtu.be/7etaEZXMrqo).
 
 ## Deployment
 
-Rad Boots MacGee is deployed and available to download to Windows on [Itch.io](https://waken-games.itch.io/inferno-flume).
+Rad Boots MacGee is deployed and available to download to Windows on [Itch.io](https://waken-games.itch.io/radbootsmacgee).
 
 
 ## Game Jam
