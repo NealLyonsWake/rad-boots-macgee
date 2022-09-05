@@ -1,4 +1,4 @@
-<img src="./Inferno-Flume/Assets/StartMenu/Logo.png"/>
+<img src="./Assets/StartMenu/Logo.png"/>
 
 # Elevator Pitch?
 
